@@ -1,4 +1,4 @@
-The repository "kvahldiek/data:generator" contains five files. 
+The repository "kvahldiek/data_generator" contains five files. 
 - COPYING
 - GITHUB_data_generator_example_iris
 - GITHUB_data_generator_gui
